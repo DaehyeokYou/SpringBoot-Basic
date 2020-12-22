@@ -1,2 +1,0 @@
-com/ydh/bootsample/BootSampleApplicationTests.java
- com.ydh.bootsample.BootSampleApplicationTests

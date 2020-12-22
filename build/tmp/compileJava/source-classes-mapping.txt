@@ -1,4 +1,0 @@
-com/ydh/bootsample/BootSampleApplication.java
- com.ydh.bootsample.BootSampleApplication
-com/ydh/bootsample/controller/HelloController.java
- com.ydh.bootsample.controller.HelloController
